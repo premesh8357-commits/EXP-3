@@ -87,13 +87,17 @@ Build both the direct and cross connection circuits in Proteus using an AC sourc
 
 ### A. Direct connection – simulation
 
-*[ Paste the Proteus direct connection simulation screenshot here ]*
+
+<img width="1325" height="647" alt="Screenshot 2026-11-14 101755" src="https://github.com/user-attachments/assets/3bcc4442-d6b0-4be1-9ed7-27efd6919a8b" />
+
 
 **Figure 3:** Proteus simulation – direct connection
 
 ### B. Cross connection – simulation
 
-*[ Paste the Proteus cross connection simulation screenshot here ]*
+
+<img width="1202" height="537" alt="Screenshot 2026-11-14 102841" src="https://github.com/user-attachments/assets/61bdda76-1162-4715-bbf1-9b41aba98c99" />
+
 
 **Figure 4:** Proteus simulation – cross connection
 
